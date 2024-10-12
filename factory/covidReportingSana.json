@@ -1,0 +1,9 @@
+{
+	"name": "covidReportingSana",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc3123b2-1626-49aa-a2f4-3d5b0143600b",
+		"tenantId": "ca364860-12f1-4e21-b02f-8d38f4655c4e"
+	}
+}
